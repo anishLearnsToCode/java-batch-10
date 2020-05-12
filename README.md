@@ -1,5 +1,10 @@
 # Introduction To Java and Programming Fundamentals
 
+Solutions to all sample problems on HackerRank under the Java domain can be 
+looked up [here](https://github.com/anishLearnsToCode/hackerrank-java). This 
+is not an exhaustive list and solutions will be added slowly over time.
+  
+
 ## Day 1
 ### Topics Covered
 - Java Introduction
