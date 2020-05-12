@@ -38,6 +38,8 @@ is not an exhaustive list and solutions will be added slowly over time.
 - [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) [HackerRank]
 - [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare/problem) [HackerRank]
 - [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) [HackerRank]
+- [Pattern Questions and Loop based Questions](http://www.beginwithjava.com/java/loops/questions.html) [Begin with Jva]
+
 
 ## Day 3
 ## Day 4
