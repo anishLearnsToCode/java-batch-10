@@ -342,3 +342,5 @@ For `row = 5`
 ## Day 8
 ## Day 9
 ## Day 10
+### Sample Problems
+- [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) [HackerRank]
