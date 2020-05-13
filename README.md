@@ -269,8 +269,70 @@ for `row = 4`
 For `rows = 5`
 
 ```text
-
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
 ``` 
+
+The pattern is derived in the pascal's triangle using values in the previous row.
+e.g. 
+````text
+1
+1 1
+1 (1 + 1) 1
+1 (1 + 2) (2 + 1) 1
+1 (1 + 3) (3 + 3) (3 + 1) 1
+````
+
+- WAP to print the following pattern (Hollow Rhombus). For `row=3`
+````text
+******
+**  **
+*    *
+*    *
+**  **
+******
+````
+
+For `row = 5`
+````text
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+**** *****
+**********
+````
+
+- WAP to print the following pattern (Butterfly pattern). For `row = 3`
+````text
+*    *
+**  **
+******
+******
+**  **
+*    *
+````
+
+For `row = 5`
+````text
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+````
 
 ## Day 4
 ## Day 5
