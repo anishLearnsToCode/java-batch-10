@@ -100,7 +100,106 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-.
+````text
+    *
+   * *
+  *   *
+ *     *
+* * * * *
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+1
+1 2
+1 x 3
+1 x x 4
+1 x x x 5
+1 2 3 4 5 6
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+A
+A B A
+A B C B A
+A B C D C B A
+````
+
+- WAP to print the following patter. User enters `rows`.
+````text
+********1********
+*******2*2*******
+******3*3*3******
+*****4*4*4*4*****
+****5*5*5*5*5****
+***6*6*6*6*6*6***
+**7*7*7*7*7*7*7**
+*8*8*8*8*8*8*8*8*
+````
+
+- WAP to print the following patter. User enters `rows`. `rows` must be odd number else 
+output _enter odd number_.
+````text
+   *
+  * *
+ * * *
+  * *
+   *
+````
+
+- WAP to print the following pattern. User enters `rows`. `rows` must be odd number else 
+output _enter odd number_.
+````text
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+*
+**
+***
+****
+***
+**
+*
+````
+In case `rows = 4`
+```text
+*
+**
+**
+*
+```
+
+- WAP to print the following pattern.
+
 ## Day 4
 ## Day 5
 ## Day 6
