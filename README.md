@@ -28,8 +28,8 @@ is not an exhaustive list and solutions will be added slowly over time.
 ### Topics Covered
 - While Loop
 - For Loop
-- Do-While Loop
-- Switch Statement
+- Break Statement
+- Fibonacci Series
 
 
 ### Sample Problems To Try
@@ -42,6 +42,11 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 
 ## Day 3
+### Topics Covered
+
+### Sample Problems to Try
+
+
 ## Day 4
 ## Day 5
 ## Day 6
