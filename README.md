@@ -43,10 +43,64 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 ## Day 3
 ### Topics Covered
+- For Loop 
+- Nested For Loops
+- Pattern Printing Questions 
 
 ### Sample Problems to Try
+- WAP (Write a program) to a print the following pattern. User enters no of rows (rows)
+````text
+********
+***  ***
+**    **
+*      *
+        
+*      *
+**    **
+***  ***
+********
+````
 
+- WAP to print the following pattern. User will enter number of rows (`rows` >= 2). If user
+enters `rows` < 2 then no pattern is printed. You can also add a second variable called
+`columns` that takes how many stars `*` to print in the first and last line.
+````text
+********
+*      *
+*      *
+*      *
+*      *
+********
+````
 
+- WAP to print the following pattern, User enters `rows`
+````text
+*****
+*  *
+* *
+*
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+````
+
+- WAP to print the following pattern. User enters `rows`.
+````text
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+````
+
+- WAP to print the following pattern. User enters `rows`.
+.
 ## Day 4
 ## Day 5
 ## Day 6
