@@ -156,8 +156,7 @@ A B C D C B A
 *8*8*8*8*8*8*8*8*
 ````
 
-- WAP to print the following patter. User enters `rows`. `rows` must be odd number else 
-output _enter odd number_.
+- WAP to print the following patter. User enters `rows`.
 ````text
    *
   * *
@@ -166,8 +165,7 @@ output _enter odd number_.
    *
 ````
 
-- WAP to print the following pattern. User enters `rows`. `rows` must be odd number else 
-output _enter odd number_.
+- WAP to print the following pattern. User enters `rows`.
 ````text
     *
    * *
@@ -198,7 +196,81 @@ In case `rows = 4`
 *
 ```
 
-- WAP to print the following pattern.
+- WAP to print the following pattern. User enters `rows`.
+For `row = 3`
+````text
+3
+44
+555
+6666
+44
+3
+````
+For `row = 2`
+````text
+2
+33
+444
+33
+2
+````
+For `row=5`
+````text
+5
+66
+777
+8888
+99999
+101010101010
+99999
+8888
+777
+66
+5
+````
+
+- WAP to print the following pattern. User enters `rows`. For `rows = 4`.
+```text
+1
+2 3
+4 5 6
+7 8 9 10
+```
+
+For `row = 2`
+````text
+1 
+2 3
+````
+
+- WAP to print the following pattern. User enters `rows`. For `rows = 3`
+````text
+1
+2*3
+4*5*6
+4*5*6
+2*3
+1
+````
+
+for `row = 4`
+````text
+1
+2*3
+4*5*6
+7*8*9*10
+7*8*9*10
+4*5*6
+2*3
+1
+````
+
+- WAP to print the following pattern (Pascal's Triangle). User enters `rows`. 
+For `rows = 5`
+
+```text
+
+``` 
 
 ## Day 4
 ## Day 5
