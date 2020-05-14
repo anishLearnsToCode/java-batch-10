@@ -53,7 +53,7 @@ is not an exhaustive list and solutions will be added slowly over time.
 | Question 4 | [Solution]() |
 | Question 5 | [Solution]() |
 | Question 6 | [Solution]() |
-| Question 7 | [Solution]() |
+| Question 7 |  |
 | Question 8 | [Solution]() |
 | Question 9 | [Solution]() |
 | Question 10 | [Solution]() |
