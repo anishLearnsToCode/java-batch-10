@@ -10,7 +10,6 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 <details>
     <summary>Click To Expand</summary>
-    
     1. Java Introduction
     2. Printing values and Taking input
     3. Variables and Data Types
