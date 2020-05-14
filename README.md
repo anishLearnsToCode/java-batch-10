@@ -347,7 +347,10 @@ e.g.
 1 (1 + 3) (3 + 3) (3 + 1) 1
 ````
 
-- WAP to print the following pattern (Hollow Rhombus). For `row=3`
+- WAP to print the following pattern (Hollow Rhombus). 
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
+
+For `row=3`
 ````text
 ******
 **  **
@@ -371,7 +374,10 @@ For `row = 5`
 **********
 ````
 
-- WAP to print the following pattern (Butterfly pattern). For `row = 3`
+- WAP to print the following pattern (Butterfly pattern). 
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern19.java)
+
+For `row = 3`
 ````text
 *    *
 **  **
