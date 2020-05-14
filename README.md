@@ -458,6 +458,9 @@ See Solution [here](https://github.com/anishLearnsToCode/java-batch-10/blob/mast
 ## Day 7
 ## Day 8
 ## Day 9
+
 ## Day 10
 ### Sample Problems
-- [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) [HackerRank]
+| Problem | Source | Solution Link |
+|---------|--------|---------------|
+| [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnagrams.java) |
