@@ -193,6 +193,7 @@ A B C D C B A
 ````
 
 - WAP to print the following patter. User enters `rows`.
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern11.java)
 ````text
 ********1********
 *******2*2*******
