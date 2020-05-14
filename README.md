@@ -143,6 +143,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern6.java)
 ````text
     *
    * *
