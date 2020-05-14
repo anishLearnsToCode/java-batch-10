@@ -102,7 +102,8 @@ of begin with java.
 
 - WAP to print the following pattern. User will enter number of rows (`rows` >= 2). If user
 enters `rows` < 2 then no pattern is printed. You can also add a second variable called
-`columns` that takes how many stars `*` to print in the first and last line.
+`columns` that takes how many stars `*` to print in the first and last line. 
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern2.java)
 ````text
 ********
 *      *
@@ -113,6 +114,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern, User enters `rows`
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern3.java)
 ````text
 *****
 *  *
