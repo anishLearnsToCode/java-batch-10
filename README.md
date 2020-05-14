@@ -302,6 +302,7 @@ For `row = 2`
 ````
 
 - WAP to print the following pattern. User enters `rows`. For `rows = 3`
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern17.java)
 ````text
 1
 2*3
