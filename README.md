@@ -250,6 +250,7 @@ In case `rows = 4`
 
 - WAP to print the following pattern. User enters `rows`.
 [See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern15.java)
+
 For `row = 3`
 ````text
 3
@@ -283,7 +284,10 @@ For `row=5`
 5
 ````
 
-- WAP to print the following pattern. User enters `rows`. For `rows = 4`.
+- WAP to print the following pattern. User enters `rows`. 
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern16.java)
+
+For `rows = 4`.
 ```text
 1
 2 3
