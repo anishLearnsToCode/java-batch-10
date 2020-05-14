@@ -249,12 +249,14 @@ In case `rows = 4`
 ```
 
 - WAP to print the following pattern. User enters `rows`.
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern15.java)
 For `row = 3`
 ````text
 3
 44
 555
 6666
+555
 44
 3
 ````
