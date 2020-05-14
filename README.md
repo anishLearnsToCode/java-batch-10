@@ -342,9 +342,88 @@ For `row = 5`
 - java.Math Module
 
 ### Sample Problems
-[Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/)
+- [Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/) [InterviewBit]
+- WAP to create a function `add()` that takes 2 integer values and returns the sum.
+````java
+public static int add(int a, int b) {
+}
+```` 
+
+- WAP to create a function `difference()` that takes 2 integer values and returns the difference.
+````java
+public static int difference(int a, int b) {
+}
+```` 
+
+- WAP to create a function `product()` that takes 2 integer values and returns the product.
+````java
+public static int product(int a, int b) {
+}
+```` 
+
+- WAP to create a function `divide()` that takes 2 integer values and returns the quotient.
+````java
+public static int divide(int a, int b) {
+}
+```` 
+
+- WAP that creates a function which calculates the factorial of a number `n`. Where:
+````text
+0! = 1
+1! = 1
+3! = 1 * 2 * 3 = 6
+5! = 1 * 2 * 3 * 4 * 5 = 120
+````
+
+- WAP to create a function that calculates the Binomial Coefficient `nCr`. Where:
+````text
+nCr = n! / (r! * (n-r)!)
+4C0 = 4! / 0! 4! = 1
+3C2 = 3! / 2!*1! = 6 / 2 = 3
+````
+
+- WAP to create a function that calculates the Permutation value `nPr`. Where
+````text
+nPr = n! / (n-r)!
+5P0 = 5! / 5! = 1
+6P3 = 6! / 3! = 6*5*4 = 120
+```` 
+
+- WAP to create a function to check whether a given number is prime or not.
+````java
+private static boolean isPrime(int number) {
+} 
+````
+
+- WAP to create a function that returns the length of a hypotenuse of a right angle 
+triangle given the lengths of the other 2 sides
+````java
+private static double hypotenuseLength(double a, double b) {
+}
+````
+
+- WAP to create a function to return the day of the week (name) from the day number. 
+Example
+````java
+private static String dayFrom(int value) {
+}
+```` 
+
+```text
+dayFrom(0) --> "Sunday"
+dayFrom(1) --> "Monday"
+...
+...
+dayFrom(6) --> "Saturday"
+```
 
 ## Day 5
+### Topics Covered
+- Functions and methods continued
+- Arrays
+
+### Sample Problems
+
 ## Day 6
 ## Day 6
 ## Day 7
