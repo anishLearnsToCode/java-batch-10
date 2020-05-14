@@ -16,13 +16,15 @@ is not an exhaustive list and solutions will be added slowly over time.
 - Import Statements
 
 ### Sample Problems To Try
-- [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) [HackerRank]
-- [Java StdIna nd StdOut I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) [HackerRank] 
-- [Java If Else](https://www.hackerrank.com/challenges/java-if-else/problem) [HackerRank]
-- [Data Types Problem](https://www.hackerrank.com/challenges/java-datatypes/problem) [HackerRank]
-- [Java Int To String](https://www.hackerrank.com/challenges/java-int-to-string/problem) [HackerRank]
-- [Java Currency Formatter Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem) [HackerRank]
-- [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) [HackerRank]
+| Problem   | Source     |Solution Link|
+|-----------|------------|-------------|
+| [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/WelcomeToJava.java)
+| [Java StdIn and StdOut I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStdInAndStdOutI.java) |
+| [Java If Else](https://www.hackerrank.com/challenges/java-if-else/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaIfElse.java) |
+| [Data Types Problem](https://www.hackerrank.com/challenges/java-datatypes/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaDatatypes.java) |
+| [Java Int To String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaIntToString.java) |
+| [Java Currency Formatter Problem](https://www.hackerrank.com/challenges/java-currency-formatter/problem)  | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaCurrencyFormatter.java) |
+| [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringReverse.java) |
 
 ## Day 2
 ### Topics Covered
@@ -423,8 +425,12 @@ dayFrom(6) --> "Saturday"
 - Arrays
 
 ### Sample Problems
+- WAP to return the value of the sum of the following series recursively given `n`.
+```text
+1^1 + 2^2 + 3^3 + 4^4 + ... + n^n 
+```
+See Solution [here](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/Day_5/RecursionPowerSeriesSumI.java).
 
-## Day 6
 ## Day 6
 ## Day 7
 ## Day 8
