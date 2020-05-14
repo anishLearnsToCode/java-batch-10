@@ -7,28 +7,13 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 ## Day 1
 ### Topics Covered
-
-<details>
-    <summary>Click To Expand</summary>
-    1. Java Introduction
-    2. Printing values and Taking input
-    3. Variables and Data Types
-    4. Operators and Arithmetic
-    5. Conditional Statements 
-    6. Comments
-    7. Import Statements
-</details>
-
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
+1. Java Introduction
+2. Printing values and Taking input
+3. Variables and Data Types
+4. Operators and Arithmetic
+5. Conditional Statements 
+6. Comments
+7. Import Statements
 
 ### Sample Problems To Try
 | Problem   | Source     |Solution Link|
