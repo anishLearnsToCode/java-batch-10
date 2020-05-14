@@ -325,6 +325,8 @@ for `row = 4`
 ````
 
 - WAP to print the following pattern (Pascal's Triangle). User enters `rows`. 
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern18.java)
+
 For `rows = 5`
 
 ```text
