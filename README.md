@@ -86,7 +86,8 @@ of begin with java.
 | Question 18. e | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18e.java) |
 | Question 18. f | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18f.java) |
 
-- WAP (Write a program) to a print the following pattern. User enters no of rows (rows)
+- WAP (Write a program) to a print the following pattern. User enters `rows` 
+[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
 ````text
 ********
 ***  ***
