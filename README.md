@@ -35,12 +35,35 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 
 ### Sample Problems To Try
-- [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) [HackerRank]
-- [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) [HackerRank]
-- [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) [HackerRank]
-- [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare/problem) [HackerRank]
-- [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) [HackerRank]
-- [Pattern Questions and Loop based Questions](http://www.beginwithjava.com/java/loops/questions.html) [Begin with Jva]
+| Problem | Source | Solution Link |
+|---------|--------|---------------|
+| [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaOutputFormatting.java) |
+| [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStringsIntroduction.java) |
+| [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubstring.java) |
+| [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaSubstringComparison.java) |
+| [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaDateAndTime.java) |
+
+
+#### Loop based & Pattern based questions given [here](http://www.beginwithjava.com/java/loops/questions.html) 
+| Problem No. | Solution |
+|-------------|----------|
+| Question 1 | [Solution]() |
+| Question 2 | [Solution]() |
+| Question 3 | [Solution]() |
+| Question 4 | [Solution]() |
+| Question 5 | [Solution]() |
+| Question 6 | [Solution]() |
+| Question 7 | [Solution]() |
+| Question 8 | [Solution]() |
+| Question 9 | [Solution]() |
+| Question 10 | [Solution]() |
+| Question 11 | [Solution]() |
+| Question 12 | [Solution]() |
+| Question 13 | [Solution]() |
+| Question 14 | [Solution]() |
+| Question 15 | [Solution]() |
+| Question 16 | [Solution]() |
+| Question 17 | [Solution]() |
 
 
 ## Day 3
