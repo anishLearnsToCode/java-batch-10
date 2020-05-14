@@ -47,23 +47,23 @@ is not an exhaustive list and solutions will be added slowly over time.
 #### Loop based & Pattern based questions given [here](http://www.beginwithjava.com/java/loops/questions.html) 
 | Problem No. | Solution |
 |-------------|----------|
-| Question 1 | [Solution]() |
-| Question 2 | [Solution]() |
-| Question 3 | [Solution]() |
-| Question 4 | [Solution]() |
-| Question 5 | [Solution]() |
-| Question 6 | [Solution]() |
-| Question 7 |  |
-| Question 8 | [Solution]() |
-| Question 9 | [Solution]() |
-| Question 10 | [Solution]() |
-| Question 11 | [Solution]() |
-| Question 12 | [Solution]() |
-| Question 13 | [Solution]() |
-| Question 14 | [Solution]() |
-| Question 15 | [Solution]() |
-| Question 16 | [Solution]() |
-| Question 17 | [Solution]() |
+| Question 1 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question1.java) |
+| Question 2 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question2.java) |
+| Question 3 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question3.java) |
+| Question 4 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question4.java) |
+| Question 5 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question5.java) |
+| Question 6 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question6.java) |
+| Question 7 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question7.java) |
+| Question 8 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question8.java) |
+| Question 9 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question9.java) |
+| Question 10 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question10.java) |
+| Question 11 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question11.java) |
+| Question 12 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question12.java) |
+| Question 13 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question13.java) |
+| Question 14 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question14.java) |
+| Question 15 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question15.java) |
+| Question 16 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question16.java) |
+| Question 17 | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question17.java) |
 
 
 ## Day 3
