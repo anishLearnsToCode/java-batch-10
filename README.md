@@ -491,10 +491,10 @@ dayFrom(6) --> "Saturday"
 
 ### Sample Problems
 - WAP to return the value of the sum of the following series recursively given `n`.
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/Day_5/RecursionPowerSeriesSumI.java)
 ```text
 1^1 + 2^2 + 3^3 + 4^4 + ... + n^n 
 ```
-See Solution [here](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/Day_5/RecursionPowerSeriesSumI.java).
 
 ## Day 6
 ## Day 7
