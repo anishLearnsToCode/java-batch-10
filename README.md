@@ -7,13 +7,13 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 ## Day 1
 ### Topics Covered
-1. Java Introduction
-2. Printing values and Taking input
-3. Variables and Data Types
-4. Operators and Arithmetic
-5. Conditional Statements 
-6. Comments
-7. Import Statements
+- Java Introduction
+- Printing values and Taking input
+- Variables and Data Types
+- Operators and Arithmetic
+- Conditional Statements 
+- Comments
+- Import Statements
 
 ### Sample Problems To Try
 | Problem   | Source     |Solution Link|
