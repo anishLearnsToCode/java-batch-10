@@ -7,13 +7,18 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 ## Day 1
 ### Topics Covered
-- Java Introduction
-- Printing values and Taking input
-- Variables and Data Types
-- Operators and Arithmetic
-- Conditional Statements 
-- Comments
-- Import Statements
+<details>
+    <summary>Click To Expand</summary>
+    
+    - Java Introduction
+    - Printing values and Taking input
+    - Variables and Data Types
+    - Operators and Arithmetic
+    - Conditional Statements 
+    - Comments
+    - Import Statements
+</details>
+
 
 ### Sample Problems To Try
 | Problem   | Source     |Solution Link|
