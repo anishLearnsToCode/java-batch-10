@@ -73,6 +73,18 @@ is not an exhaustive list and solutions will be added slowly over time.
 - Pattern Printing Questions 
 
 ### Sample Problems to Try
+- Question 18 of the [loops section](http://www.beginwithjava.com/java/loops/questions.html) 
+of begin with java.
+
+| Problem        | Solution Link |
+|----------------|--------------|
+| Question 18. a | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18a.java) |
+| Question 18. b | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18b.java) |
+| Question 18. c | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18c.java) |
+| Question 18. d | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18d.java) |
+| Question 18. e | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18e.java) |
+| Question 18. f | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18f.java) |
+
 - WAP (Write a program) to a print the following pattern. User enters no of rows (rows)
 ````text
 ********
