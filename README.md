@@ -7,6 +7,7 @@ is not an exhaustive list and solutions will be added slowly over time.
 
 ## Day 1
 ### Topics Covered
+
 <details>
     <summary>Click To Expand</summary>
     
@@ -17,6 +18,16 @@ is not an exhaustive list and solutions will be added slowly over time.
     5. Conditional Statements 
     6. Comments
     7. Import Statements
+</details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
 
 
