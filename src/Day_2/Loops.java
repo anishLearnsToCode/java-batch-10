@@ -1,6 +1,7 @@
 package Day_2;
 
 public class Loops {
+    // Time Complexity: O(1)
     public static void main(String[] args) {
 //        for (initialization_expression ; conditional_expression ; incrimentation_expression) {
 //            code you want to execuite

@@ -24,6 +24,7 @@ public class Pattern7 {
 
      */
 
+    // Time Complexity: O(rows^2)
     public static void main(String[] args) {
         // User Input
         Scanner scanner = new Scanner(System.in);

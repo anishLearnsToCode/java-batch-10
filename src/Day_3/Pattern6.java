@@ -28,6 +28,7 @@ public class Pattern6 {
     no of stars = 2i + 1
      */
 
+    // Time complexity: O(rows^2)
     public static void main(String[] args) {
         // Take user input
         Scanner scanner = new Scanner(System.in);
@@ -35,7 +36,14 @@ public class Pattern6 {
         scanner.close();
 
         // Print pattern
+        // Time Complexity: (rows^2, 2*rows^2)
+        // O(rows^2), O(rows^2)
         for (int i = 0 ; i < rows ; i++) {
+            // Block Time Complexity
+            // rows - i + 2*i = rows + i
+            // i --> (0, rows)
+            // rows + i --> (rows, 2*rows)
+
             // Print Spaces (rows - i - 1)
             for (int j = 0 ; j < rows - i - 1 ; j++) {
                 System.out.print(" ");

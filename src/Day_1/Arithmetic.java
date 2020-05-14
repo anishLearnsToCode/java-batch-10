@@ -2,9 +2,10 @@ package Day_1;
 
 public class Arithmetic {
     public static void main(String[] args) {
-        int x = 10;
-        int y = 1;
-        int zero = 0;
+        // O(1) = 24 O(1)
+        int x = 10; //o1;
+        int y = 1;  // o2
+        int zero = 0;  //o3
         double d = y / x;
 
         // modulo operator (remainder)

@@ -17,6 +17,7 @@ public class Pattern2 {
     ******
      */
 
+    // Time complexity: O(rows * columns)
     public static void main(String[] args) {
         // 1. Take input from user
 
@@ -29,9 +30,11 @@ public class Pattern2 {
         int columns = scanner.nextInt();
         scanner.close();
 
+        // Time Complexity: O(rows * columns)
         for (int i = 0 ; i < rows ; i++) {
+            // Time complexity: O(columns)
             for (int j = 0 ; j < columns ; j++) {
-                System.out.print("*");
+                System.out.print("*"); // Time complexiy: O(1)
             }
             System.out.println();
         }

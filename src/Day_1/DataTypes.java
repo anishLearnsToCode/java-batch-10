@@ -2,6 +2,7 @@ package Day_1;
 
 public class DataTypes {
     public static void main(String[] args) {
+        // Time complexity : O(1) -- constant time complexity
         // Integers
         byte b; // 1 byte (-128 - 127)
         short s; // 2 byte (-2^15 - 2^15)

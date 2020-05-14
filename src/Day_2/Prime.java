@@ -7,6 +7,7 @@ public class Prime {
     // they are numbers which are divisible only by 1 and themselves
 
     // Break statement
+    // Time complexity: O(number)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();

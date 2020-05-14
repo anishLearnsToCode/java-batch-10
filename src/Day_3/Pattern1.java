@@ -3,6 +3,8 @@ package Day_3;
 import java.util.Scanner;
 
 public class Pattern1 {
+
+    // Time Complexity: O(number)
     public static void main(String[] args) {
         // 1. Take input from user
         Scanner scanner = new Scanner(System.in);

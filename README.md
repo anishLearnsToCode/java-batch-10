@@ -335,6 +335,15 @@ For `row = 5`
 ````
 
 ## Day 4
+### Topics Covered
+- Switch Statement
+- Amortised Code Analysis (Big-O Notation)
+- Functions
+- java.Math Module
+
+### Sample Problems
+[Time Complexity Problems](https://www.interviewbit.com/problems/loopcmpl/)
+
 ## Day 5
 ## Day 6
 ## Day 6

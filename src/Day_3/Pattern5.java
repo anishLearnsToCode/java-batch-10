@@ -20,6 +20,7 @@ public class Pattern5 {
     no of spaces = n - i - 1
      */
 
+    // Time complexity: O(n^2)
     public static void main(String[] args) {
         // 1. User Input
         Scanner scanner = new Scanner(System.in);

@@ -9,6 +9,7 @@ public class MultiplicationTable {
     // 2 x 3 = 6
     // 2 x 4 = 8
 
+    // Time Complexity: O(1)
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();

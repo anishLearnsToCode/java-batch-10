@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Logic {
     public static void main(String[] args) {
+        // Time Complexity: O(1)
+        //
+
         Scanner scanner  = new Scanner(System.in);
         int number = 100;
 
