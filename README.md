@@ -600,6 +600,18 @@ this sum recursively.
 
 
 ## Day 8
+### Topics Covered
+
+### Sample Problems
+try the problems given below and have a look at the solution only after you have solved it to see the 
+different implementations and ideas we might've used or to use as a reference if unable to solve yourself.
+
+| Problem | Source | Solution Link |
+|---------|--------|---------------|
+| [Java List](https://www.hackerrank.com/challenges/java-list/problem) | HackerRank | [Solution]() |
+| [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem) | HackerRank | [Solution]() |
+| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | HackerRank | [Solution]() |
+
 ## Day 9
 
 ## Day 10
