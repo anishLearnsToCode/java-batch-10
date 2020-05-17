@@ -514,6 +514,71 @@ this sum recursively.
   [[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/recursion/Problem3.java)
 
 ## Day 6
+### Topics Covered
+
+### Sample Problems
+1. WAP to input an integer number `length` from the user and then instantiate an integer array of size
+    `length` and then display that array on the terminal with all entered values.  [[See Solution]]()
+    
+2. WAP that inputs an integer array from the user and returns the sum of all its elements. Create a dedicated
+    method for calculating array sum with the following signature. [[See Solution]]()
+    ````java
+    private static int sum(int[] array);
+    ````
+   
+3. WAP that inputs an integer array from the user and prints the number of even, odd and zero elements.
+   [[See Solution]]()
+   
+4. WAP to implement linear searching in an array. The user enters an array of size `n` and then an integer 
+    `element`. search for this `element` in the array and return the first index at which it is found otherwise
+    return -1 if not found in the array. [[See Solution]]()
+    
+5. WAP that takes an array from the user and returns a reverse array with teh order of all elements reversed
+    and then prints this reversed array. [[See Solution]]()
+    ```text
+    If the input array is array = [1, 2, 3, 4, 5] then the resultant array should be = [5, 4, 3, 2, 1]
+    ```
+   The method should have the following signature.
+   ```java
+    private static int[] reverse(int[] array);
+    ```
+   
+6. WAP that takes an integer array from the user and returns the product of all it's elements. 
+    [[See Solution]]()
+    The method signature should be 
+    ````java
+    private static long product(int[] array);
+    ````
+    
+7. WAP to tell whether an array is an anagram or not. The user will enter an integer array. [[See Solution]]() 
+    For example
+    ````text
+    array = [1, 2, 1] this is an anagram as the reverse of this array is also [1, 2, 1]
+    array = [1, 1, 1, 1] This is also an anagram as the reverse is the same [1, 1, 1, 1]
+    array = [] The empty array is also an anagram as the reverse is [] the same.
+    array  = [-1, 0] is not an aanagram as the reverse = [0, -1] isn't the same.
+    ````
+   
+   Crete a method with the following signature that returns boolean; true or false i it is an anagram 
+   or not.
+   ````java
+    private static boolean isAnagram(int[] array);
+    ````
+   
+8. WAP to Merge 2 sorted arrays and return the new array which is also sorted. [[See Solution]]()
+    For example 
+    ````text
+    Let there be 2 arrays first = [1, 10, 20] and second = [1, 2, 4, 10, 67] Define a function with 
+   a sigaturea as
+    ````
+   ````java
+    private static int[] merge(int[] first, int[] second);
+    ````
+   ```text
+    which should return an array = [1, 1, 2, 4, 10, 10, 20, 67]
+    ```
+
+
 ## Day 7
 ## Day 8
 ## Day 9
