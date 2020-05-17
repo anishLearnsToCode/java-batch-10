@@ -622,7 +622,7 @@ different implementations and ideas we might've used or to use as a reference if
 | Problem | Platform | Solution Link |
 |---------|----------|---------------|
 | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStack.java) |
-| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | HackerRank | [Solution]() |
+| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPriorityQueue.java) |
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | HackerRank | [Solution]() |
 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | HackerRank | [Solution]() |
 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | HackerRank | [Solution]() |
