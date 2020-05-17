@@ -492,26 +492,26 @@ dayFrom(6) --> "Saturday"
 - Recursion
 
 ### Sample Problems
-<details>
-    <summary>Question 2</summary>
-    WAP to return the value of the sum of the following series recursively given `n`.
+- WAP to return the value of the sum of the following series recursively given `n`.
     [[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/Day_5/RecursionPowerSeriesSumI.java)
     ```text
     1^1 + 2^2 + 3^3 + 4^4 + ... + n^n 
     ```
-</details>
 
-<details>
-    <summary>Question 2</summary>
-    WAP a program that returns that sum of the first N natural numbers and finds this
-    sum recursively.
-    
+- WAP a program that returns that sum of the first N natural numbers and finds 
+this sum recursively.
     [[See Solution]]() 
     ````text
     f(N) = 1 + 2 + 3 + ... + N   
     ````
-    so, for N = 3 `f(3) = 1 + 2 + 3 = 6` and for `N = 5` `f(5) = 15`.
-</details>
+    so, for `N = 3` `f(3) = 1 + 2 + 3 = 6` and for `N = 5` `f(5) = 15`.
+
+- WAP a program that calculates the sum of the series 
+    ````text
+    f(N) = 1 + 2^2 + 3^2 + ... + N^2
+    ````  
+  using a recursive function.
+  [[See Solution]]()
 
 ## Day 6
 ## Day 7
