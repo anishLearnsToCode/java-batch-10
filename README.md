@@ -533,7 +533,7 @@ this sum recursively.
     `element`. search for this `element` in the array and return the first index at which it is found otherwise
     return -1 if not found in the array. [[See Solution]]()
     
-5. WAP that takes an array from the user and returns a reverse array with teh order of all elements reversed
+5. WAP that takes an array from the user and returns a reverse array with the order of all elements reversed
     and then prints this reversed array. [[See Solution]]()
     ```text
     If the input array is array = [1, 2, 3, 4, 5] then the resultant array should be = [5, 4, 3, 2, 1]
