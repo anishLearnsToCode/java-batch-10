@@ -569,7 +569,7 @@ this sum recursively.
     For example 
     ````text
     Let there be 2 arrays first = [1, 10, 20] and second = [1, 2, 4, 10, 67] Define a function with 
-   a sigaturea as
+   a sigature as:
     ````
    ````java
     private static int[] merge(int[] first, int[] second);
