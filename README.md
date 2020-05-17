@@ -487,7 +487,9 @@ dayFrom(6) --> "Saturday"
 ## Day 5
 ### Topics Covered
 - Functions and methods continued
-- Arrays
+- Function Polymorphism
+- Method Overriding
+- Recursion
 
 ### Sample Problems
 - WAP to return the value of the sum of the following series recursively given `n`.
@@ -495,6 +497,13 @@ dayFrom(6) --> "Saturday"
 ```text
 1^1 + 2^2 + 3^3 + 4^4 + ... + n^n 
 ```
+
+<details>
+    <summary>Question 2</summary>
+    WAP a program that returns that sum of the first N naturak numbers and finds this
+    sum recursively.
+     
+</details>
 
 ## Day 6
 ## Day 7
