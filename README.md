@@ -586,6 +586,19 @@ this sum recursively.
 
 
 ## Day 7
+### Topics Discussed
+
+### Sample Problems
+| Problem | Platform | Solution Link |
+|---------|----------|---------------|
+| [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritanceI.java) | 
+| [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInheritenceII.java) | 
+| [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAbstractClass.java) | 
+| [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaInterface.java) | 
+| [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverriding.java) | 
+| [Java Overriding II (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMethodOverridingIISuperKeyword.java) | 
+
+
 ## Day 8
 ## Day 9
 
