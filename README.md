@@ -603,7 +603,7 @@ this sum recursively.
 ### Topics Covered
 
 ### Sample Problems
-try the problems given below and have a look at the solution only after you have solved it to see the 
+Try the problems given below and have a look at the solution only after you have solved it to see the 
 different implementations and ideas we might've used or to use as a reference if unable to solve yourself.
 
 | Problem | Platform | Solution Link |
@@ -613,6 +613,19 @@ different implementations and ideas we might've used or to use as a reference if
 | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaComparator.java) |
 
 ## Day 9
+### Topics Discussed
+
+### Sample Problems
+Try the problems given below and have a look at the solution only after you have solved it to see the 
+different implementations and ideas we might've used or to use as a reference if unable to solve yourself.
+
+| Problem | Platform | Solution Link |
+|---------|----------|---------------|
+| [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStack.java) |
+| [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | HackerRank | [Solution]() |
+| [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | HackerRank | [Solution]() |
+| [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | HackerRank | [Solution]() |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | HackerRank | [Solution]() |
 
 ## Day 10
 ### Sample Problems
