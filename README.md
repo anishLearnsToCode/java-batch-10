@@ -87,7 +87,7 @@ of begin with java.
 | Question 18. f | [Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/loops/Question18f.java) |
 
 - WAP (Write a program) to a print the following pattern. User enters `rows` 
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
 ````text
 ********
 ***  ***
@@ -103,7 +103,7 @@ of begin with java.
 - WAP to print the following pattern. User will enter number of rows (`rows` >= 2). If user
 enters `rows` < 2 then no pattern is printed. You can also add a second variable called
 `columns` that takes how many stars `*` to print in the first and last line. 
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern2.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern2.java)
 ````text
 ********
 *      *
@@ -114,7 +114,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern, User enters `rows`
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern3.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern3.java)
 ````text
 *****
 *  *
@@ -123,7 +123,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern4.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern4.java)
 ````text
 * * * * *
  * * * *
@@ -133,7 +133,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern5.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern5.java)
 ````text
     *
    * *
@@ -143,7 +143,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern6.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern6.java)
 ````text
     *
    * *
@@ -153,7 +153,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern7.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern7.java)
 ````text
 1
 1 2
@@ -163,7 +163,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern8.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern8.java)
 ````text
 1 2 3 4 5
 1 2 3 4
@@ -173,7 +173,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern9.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern9.java)
 ````text
 1
 1 2
@@ -184,7 +184,7 @@ enters `rows` < 2 then no pattern is printed. You can also add a second variable
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern10.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern10.java)
 ````text
 A
 A B A
@@ -193,7 +193,7 @@ A B C D C B A
 ````
 
 - WAP to print the following patter. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern11.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern11.java)
 ````text
 ********1********
 *******2*2*******
@@ -206,7 +206,7 @@ A B C D C B A
 ````
 
 - WAP to print the following patter. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern12.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern12.java)
 ````text
    *
   * *
@@ -216,7 +216,7 @@ A B C D C B A
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern13.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern13.java)
 ````text
     *
    * *
@@ -230,7 +230,7 @@ A B C D C B A
 ````
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern14.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern14.java)
 ````text
 *
 **
@@ -249,7 +249,7 @@ In case `rows = 4`
 ```
 
 - WAP to print the following pattern. User enters `rows`.
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern15.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern15.java)
 
 For `row = 3`
 ````text
@@ -285,7 +285,7 @@ For `row=5`
 ````
 
 - WAP to print the following pattern. User enters `rows`. 
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern16.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern16.java)
 
 For `rows = 4`.
 ```text
@@ -302,7 +302,7 @@ For `row = 2`
 ````
 
 - WAP to print the following pattern. User enters `rows`. For `rows = 3`
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern17.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern17.java)
 ````text
 1
 2*3
@@ -325,7 +325,7 @@ for `row = 4`
 ````
 
 - WAP to print the following pattern (Pascal's Triangle). User enters `rows`. 
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern18.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern18.java)
 
 For `rows = 5`
 
@@ -348,7 +348,7 @@ e.g.
 ````
 
 - WAP to print the following pattern (Hollow Rhombus). 
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern1.java)
 
 For `row=3`
 ````text
@@ -375,7 +375,7 @@ For `row = 5`
 ````
 
 - WAP to print the following pattern (Butterfly pattern). 
-[See Solution](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern19.java)
+[[See Solution]](https://github.com/anishLearnsToCode/java-batch-10/blob/master/src/patterns/Pattern19.java)
 
 For `row = 3`
 ````text
