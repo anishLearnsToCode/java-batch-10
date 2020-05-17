@@ -606,16 +606,16 @@ this sum recursively.
 try the problems given below and have a look at the solution only after you have solved it to see the 
 different implementations and ideas we might've used or to use as a reference if unable to solve yourself.
 
-| Problem | Source | Solution Link |
+| Problem | Platform | Solution Link |
 |---------|--------|---------------|
-| [Java List](https://www.hackerrank.com/challenges/java-list/problem) | HackerRank | [Solution]() |
-| [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem) | HackerRank | [Solution]() |
-| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | HackerRank | [Solution]() |
+| [Java List](https://www.hackerrank.com/challenges/java-list/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaList.java) |
+| [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaArraylist.java) |
+| [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaComparator.java) |
 
 ## Day 9
 
 ## Day 10
 ### Sample Problems
-| Problem | Source | Solution Link |
+| Problem | Platform | Solution Link |
 |---------|--------|---------------|
 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnagrams.java) |
