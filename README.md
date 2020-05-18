@@ -515,6 +515,10 @@ this sum recursively.
 
 ## Day 6
 ### Topics Covered
+- 1D Arrays
+- Varargs Methods
+- Foreach Loop
+- 2D Arrays
 
 ### Sample Problems
 1. WAP to input an integer number `length` from the user and then instantiate an integer array of size
