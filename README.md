@@ -628,7 +628,7 @@ different implementations and ideas we might've used or to use as a reference if
 | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaStack.java) |
 | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaPriorityQueue.java) |
 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/MaximumElement.java) |
-| [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | HackerRank | [Solution]() |
+| [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/EqualStacks.java) |
 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | HackerRank | [Solution]() |
 
 ## Day 10
