@@ -637,5 +637,5 @@ different implementations and ideas we might've used or to use as a reference if
 |---------|--------|---------------|
 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnagrams.java) |
 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaHashset.java) |
-| [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | HackerRank | [Solution]() |
+| [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaMap.java) |
 | [Pair Sums](https://www.hackerrank.com/challenges/pair-sums/problem) | HackerRank | [Solution]() |
