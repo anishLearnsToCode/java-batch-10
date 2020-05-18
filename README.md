@@ -636,3 +636,6 @@ different implementations and ideas we might've used or to use as a reference if
 | Problem | Platform | Solution Link |
 |---------|--------|---------------|
 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaAnagrams.java) |
+| [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) | HackerRank | [Solution]() |
+| [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | HackerRank | [Solution]() |
+| [Pair Sums](https://www.hackerrank.com/challenges/pair-sums/problem) | HackerRank | [Solution]() |
