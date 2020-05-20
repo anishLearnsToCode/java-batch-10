@@ -1,5 +1,6 @@
 package day7;
 
+// Immutable
 public class Box {
     private final double length;
     private final double width;
@@ -7,12 +8,18 @@ public class Box {
     private final double volume;
     private final double surfaceArea;
 
+    static {
+
+    }
+
+    // Cube Constructor
     private Box(double side) {
         length = width = height = side;
         volume = side * side * side;
         surfaceArea = 6 * side * side;
     }
 
+    // Cuboid Constructor
     private Box(double length, double width, double height) {
         this.length = length;
         this.width = width;
@@ -21,11 +28,13 @@ public class Box {
         surfaceArea = 2 * (length * width + width * height + height * length);
     }
 
-    static Box createCube(double side) {
+    // Factory Method
+    public static Box createCube(double side) {
         return new Box(side);
     }
 
-    static Box createCuboid(double length, double width, double height) {
+    // Factory Method
+    public static Box createCuboid(double length, double width, double height) {
         return new Box(length, width, height);
     }
 
