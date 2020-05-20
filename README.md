@@ -591,6 +591,14 @@ this sum recursively.
 
 ## Day 7
 ### Topics Discussed
+- Object Oriented Programming Basics
+- Classes and Objects
+- Constructors
+- Default Constructors
+- Parameterized Constructors
+- Constructor Overloading
+- Access Modifier
+- The Final Keyword
 
 ### Sample Problems
 | Problem | Platform | Solution Link |
@@ -605,6 +613,11 @@ this sum recursively.
 
 ## Day 8
 ### Topics Covered
+- OOP Continued
+- Class Inheritance
+- The Java Object Class
+- The Java Collection Interface
+- The Java ArrayList<T> Class
 
 ### Sample Problems
 Try the problems given below and have a look at the solution only after you have solved it to see the 
