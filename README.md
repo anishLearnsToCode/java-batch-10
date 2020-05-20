@@ -625,8 +625,12 @@ this sum recursively.
 - OOP Continued
 - Class Inheritance
 - The Java Object Class
+- Java Interfaces
+- Dynamic Binding 
 - The Java Collection Interface
 - The Java ArrayList<T> Class
+- Example ArrayList<Integer>
+- Example HashSet<Integer>
 
 ### Sample Problems
 Try the problems given below and have a look at the solution only after you have solved it to see the 
@@ -637,6 +641,7 @@ different implementations and ideas we might've used or to use as a reference if
 | [Java List](https://www.hackerrank.com/challenges/java-list/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaList.java) |
 | [Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaArraylist.java) |
 | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/JavaComparator.java) |
+| [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-java/blob/master/src/CovariantReturnTypes.java)|
 
 ## Day 9
 ### Topics Discussed
