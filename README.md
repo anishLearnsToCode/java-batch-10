@@ -426,7 +426,7 @@ public static int add(int a, int b) {
 ```` 
 
 - WAP to create a function `difference()` that takes 2 integer values and returns the difference.
-````java
+````aspectj
 public static int difference(int a, int b) {
 }
 ```` 
