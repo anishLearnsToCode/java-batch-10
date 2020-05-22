@@ -5,9 +5,9 @@
 ##### Heading 5
 ###### Heading 6
 
-[Google](www.google.com)
+[Google](https://www.google.com)
 
 | Column 1 | Column 2 |
 |----------|----------|
 | this si a | table |
-| [wikipedia](www.google.com) | |
+| [wikipedia](https://www.google.com) | |
