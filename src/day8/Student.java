@@ -1,16 +1,21 @@
 package day8;
 
+import org.omg.CORBA.CharSeqHolder;
+
+import java.util.Objects;
+
 public class Student {
-    String firstName;
-    String lastName;
+    private final int hash = calculateHashcode();
+    String firstName = "";
+    String lastName = "";
     private final long rollNo;
     private double cgpa;
 
-    Student(int rollNo) {
+    public Student(int rollNo) {
         this.rollNo = rollNo;
     }
 
-    Student(long rollNo, double cgpa) {
+    public Student(long rollNo, double cgpa) {
         this.rollNo = rollNo;
         this.cgpa = cgpa;
     }
@@ -22,10 +27,22 @@ public class Student {
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
-        if (obj.getClass() == this.getClass()) {
+        if (obj instanceof Student) {
             Student other = (Student) obj;
-            return this.rollNo == other.rollNo;
+            return this.rollNo == other.rollNo
+                    && this.firstName.equals(other.firstName)
+                    && this.lastName.equals(other.lastName)
+                    && this.cgpa == other.cgpa;
         }
         return false;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(rollNo, firstName, lastName, cgpa);
+    }
+
+    private int calculateHashcode() {
+        return Objects.hash(rollNo, firstName, lastName, cgpa);
     }
 }

@@ -4,7 +4,7 @@ Solutions to all sample problems on HackerRank under the Java domain can be
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-java).
 
 Programming is a very hands process and is both an art as well as a science. We are
-emgineers and are required to create efficient solutions but at the same time our programs should be 
+engineers and are required to create efficient solutions but at the same time our programs should be 
 highly readable and flexible and all the other snappy terms which makes it an art as well.
 
 To become proefficient in this art, there are many resources, and books and tutorials. Each has it's merit
@@ -672,6 +672,9 @@ different implementations and ideas we might've used or to use as a reference if
 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | HackerRank | [Solution](https://github.com/anishLearnsToCode/hackerrank-data-structures/blob/master/src/stacks/BalancedBrackets.java) |
 
 ## Day 10
+### Topics Discussed
+
+
 ### Sample Problems
 | Problem | Platform | Solution Link |
 |---------|--------|---------------|

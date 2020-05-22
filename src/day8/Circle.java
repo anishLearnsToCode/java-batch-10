@@ -1,9 +1,12 @@
 package day8;
 
-public class Circle extends Shape implements Morphable, MyComparable {
-    double radius;
+import java.util.Objects;
 
-    Circle(int radius) {
+public class Circle extends Shape implements Morphable, MyComparable {
+    public double radius;
+    public int random = (int) (Math.random() * 100);
+
+    public Circle(double radius) {
         this.radius = radius;
     }
 
@@ -49,5 +52,31 @@ public class Circle extends Shape implements Morphable, MyComparable {
             }
         }
         return -1;
+    }
+
+    @Override
+    // depend on same variable as hashcode:
+    public boolean equals(Object object) {
+        if (this == object) return true;
+
+        if (object instanceof Circle) {
+            Circle other = (Circle) object;
+            return this.radius == other.radius;
+        }
+
+        return false;
+    }
+
+    // f(radius) = radius * radius
+    // f(x, y) = x + y
+    // depends on: radius
+//    public int hashCode() {
+//        return (int) (radius + random);
+//    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(radius);
+//        return 0;
     }
 }
