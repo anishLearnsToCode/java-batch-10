@@ -645,6 +645,19 @@ different implementations and ideas we might've used or to use as a reference if
 
 ## Day 9
 ### Topics Discussed
+- @Override decorator
+- Overriding toString() and equals() method from the java.lang.Object Object 
+- Collections Interface
+- List Interface
+- Arraylist class
+- Stack Class
+- Queue Interface
+- LinkedList Class
+- Priority Queue
+- Iterable Interface
+- Iterators
+- Comparator Interface
+- compareTo() method
 
 ### Sample Problems
 Try the problems given below and have a look at the solution only after you have solved it to see the 
