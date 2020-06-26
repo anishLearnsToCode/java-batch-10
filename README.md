@@ -7,7 +7,7 @@ Programming is a very hands process and is both an art as well as a science. We 
 engineers and are required to create efficient solutions but at the same time our programs should be 
 highly readable and flexible and all the other snappy terms which makes it an art as well.
 
-To become proefficient in this art, there are many resources, and books and tutorials. Each has it's merit
+To become proficient in this art, there are many resources, and books and tutorials. Each has it's merit
 and making the first step in any direction is commendable, but the cardinal factor at the end of the day
 will be you sitting down (or standing) and writing code. No book or resource can substitute that.
 
