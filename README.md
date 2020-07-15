@@ -1,5 +1,7 @@
 # Introduction To Java and Programming Fundamentals
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/java-batch-10)
+
 Solutions to all sample problems on HackerRank under the Java domain can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-java).
 
